@@ -7,7 +7,7 @@ def display_menu():
     print("1. Save credentials")
     print("2. View credentials")
     print("3. Exit")
-
+# test commit
 def encrypted_text(value, shift = 3):
     #char_set = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz`~!@#$%^&*()_-=|\\}]{[\"':;?/>.<,"
     char_set = s.ascii_letters + s.digits + s.punctuation
